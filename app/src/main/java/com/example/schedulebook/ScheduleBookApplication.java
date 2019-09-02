@@ -10,5 +10,7 @@ public class ScheduleBookApplication extends Application {
         super.onCreate();
 
         Realm.init(this);
+
+
     }
 }
